@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/djim/IdeaProjects/KafkaStream/build.sbt","47ee490a5452a41795e5e3cb2994ddb91857f1d9"],["/home/djim/IdeaProjects/KafkaStream/project/assembly.sbt","af2955bad7b3c0146330bef00eec7097b2f245cb"]],"lastModifiedTimes":[]}]

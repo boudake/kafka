@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eaf6e64-e128-44fb-bd9e-1c030ecd0ca8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UAHUcxodcgZhY3TROHVKXZkyjM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="json" />
+      <recent name="json1" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JsonTest1">
+    <configuration name="ConsumerFromT" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerFromT" />
+      <module name="KafkaStream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonTest (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="json.JsonTest" />
+      <module name="KafkaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonTest1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="json.JsonTest1" />
+      <module name="KafkaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerFromT" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ProducerFromT" />
+      <module name="KafkaStream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kafkaClient.ProducerTest" />
+      <module name="KafkaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafkaClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsonTest1" />
+        <item itemvalue="Application.JsonTest (2)" />
+        <item itemvalue="Application.ConsumerFromT" />
+        <item itemvalue="Application.ProducerFromT" />
+        <item itemvalue="Application.ProducerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="KafkaStream" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="kafkastream [file:/home/djim/IdeaProjects/KafkaStream/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="KafkaStream-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2156062913" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2573304535" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1134086237" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="dontShowConversionDialog" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eaf6e64-e128-44fb-bd9e-1c030ecd0ca8" name="Default Changelist" comment="" />
+      <created>1574792496718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574792496718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1575455815753">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1575455815753" />
+    <state x="435" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575062068061">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="435" y="201" width="552" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1575062068061" />
+    <state width="1253" height="179" key="GridCell.Tab.0.bottom" timestamp="1575826130731">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575826130731" />
+    <state width="1253" height="179" key="GridCell.Tab.0.center" timestamp="1575826130730">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575826130730" />
+    <state width="1253" height="179" key="GridCell.Tab.0.left" timestamp="1575826130730">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575826130730" />
+    <state width="1253" height="179" key="GridCell.Tab.0.right" timestamp="1575826130731">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575826130731" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1574796210724">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1574796210724" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1575808610871">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575808610871" />
+    <state x="67" y="27" width="940" height="379" key="dock-window-1" timestamp="1574796324037">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="940" height="379" key="dock-window-1/67.27.1299.741@67.27.1299.741" timestamp="1574796324037" />
+    <state x="67" y="123" width="1289" height="547" key="new project wizard" timestamp="1574801149191">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="123" width="1289" height="547" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1574801149191" />
+    <state x="503" y="229" width="307" height="237" key="save.project.as.template.dialog" timestamp="1575711062191">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="503" y="229" width="307" height="237" key="save.project.as.template.dialog/67.27.1299.741@67.27.1299.741" timestamp="1575711062191" />
+  </component>
+</project>
